@@ -123,10 +123,13 @@ Pedal-specific parts
 THE PCB IS DONE!
 
 Today, I *LOCKED IN*. I imported all the parts into the PCB, choosing a generic Alpha 9mm pot footprint for all the pots. I also added a bunch of these empty pads for the off-board parts, and for the ground connection to the sleeve of the input jack (this build uses a copper ground area as well as a ground star mesh for the other components).
+
 ![image](https://halflife.hackclub-assets.com/sessions/EBuChAcUkspX5zhs3qEVPUNL9stbHepB/bc67e0cbccef86e7fb7f7bb412c705609805cdb4582635919306f5337148b854.png)
+
 ![image](https://halflife.hackclub-assets.com/sessions/EBuChAcUkspX5zhs3qEVPUNL9stbHepB/dd01b65c410ccbeea5fbea1de630bb2ea22bb44dcb1b80060bd05a0c7b622c86.png)
 
 Then came placing all the components. I really wanted to make sure I put them all in sensible places, but I think (and hope) I did a pretty decent job. I was very pleased with my routing though - I'm sure it's not perfect, but I think it's better than what I did on the macro pad! Having more space definitely helped. I'm glad I didn't try to squeeze this all into a tiny pre-made enclosure because that might have been tricky!
+
 ![image](https://halflife.hackclub-assets.com/sessions/EBuChAcUkspX5zhs3qEVPUNL9stbHepB/f54d9afd34eb6e84b5ee357b909ba1ebdc30d7fd080a0352689ecd9f734994cc.png)
 
 I did some fun silkscreening too, and it's looking pretty cool if I do say so myself! Managed to get the hack club logo on this time, and a little picture of the OG pedal.
