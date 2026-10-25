@@ -12,4 +12,6 @@ What makes this pedal so fascinating is that it uses LEDs for the clipping circu
 This, paired with a TI op-amp and three knobs for EA, should create an awesome sounding DIY guitar pedal! 
 
 ## Images
-https://camo.githubusercontent.com/0bc22a0dda1dccc24e1ab8e7daa3ea90ce6e080fc54437eec374f7d4786147d2/68747470733a2f2f68616c666c6966652e6861636b636c75622d6173736574732e636f6d2f73657373696f6e732f45427543684163556b737058357a68733371455650554e4c39737462486570422f663534643961666433346562366538346235656533353762393039626131656264633330643766643038306130333532363839656364396637333439393463632e706e67
+![image](https://halflife.hackclub-assets.com/sessions/EBuChAcUkspX5zhs3qEVPUNL9stbHepB/f54d9afd34eb6e84b5ee357b909ba1ebdc30d7fd080a0352689ecd9f734994cc.png)
+
+![image](https://halflife.hackclub-assets.com/sessions/EBuChAcUkspX5zhs3qEVPUNL9stbHepB/125660cfbe798d2be41daa3482b0d9390dde94b717cf421cb5e2403d7b4cbdfe.png)
