@@ -1,6 +1,10 @@
 # Marshall "The Guv'nor" Distortion Pedal Clone
 - BOM: [BOM.md](BOM.md)
 - Journal: [JOURNAL.md](JOURNAL.md)
+- Schematic files: [Schematic-Files](Schematic-Files)
+- PCB files: [PCB-Files](PCB-Files)
+- Gerber: [Gerber File](PCB-Files/Gerber_The-Guvnor_PCB_The-Guvnor_2026-10-25.zip)
+- Schematic: [schdoc](Schematic-Files/Sheet_1_2026-10-25.schdoc)
 
 
 ## What is this? 

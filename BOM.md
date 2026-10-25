@@ -1,0 +1,5 @@
+|Item                        |Qty|Supplier|Cost/item|Total Cost|link              |
+|----------------------------|---|--------|---------|----------|------------------|
+|Electrical Components (LCSC)|1  |LCSC    |$12.82   |$12.82    |https://lcsc.com  |
+|PCB                         |1  |JLCPCB  |$3.30    |$3.30     |https://jlcpcb.com|
+|Estimated total shipping    |1  |        |         |$15.49    |                  |
