@@ -14,7 +14,7 @@ I did some fun silkscreening too, and I managed to get the Hack Club logo on, an
 ## How it works
 What makes this pedal so fascinating is that it uses LEDs for the clipping circuit instead of traditional diodes. These red LEDs help give the pedal its characteristic sounds. They also happen to light up as you play and they activate, which I will be turning into a bonus feature! 
 
-This, paired with a TI op-amp and three knobs for EA, should create an awesome sounding DIY guitar pedal! 
+This, paired with a TI op-amp and three knobs for EQ, should create an awesome sounding DIY guitar pedal! 
 
 ## Images
 ![image](https://halflife.hackclub-assets.com/sessions/EBuChAcUkspX5zhs3qEVPUNL9stbHepB/f54d9afd34eb6e84b5ee357b909ba1ebdc30d7fd080a0352689ecd9f734994cc.png)
