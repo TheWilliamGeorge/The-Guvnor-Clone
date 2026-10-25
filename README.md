@@ -20,3 +20,5 @@ This, paired with a TI op-amp and three knobs for EQ, should create an awesome s
 ![image](https://halflife.hackclub-assets.com/sessions/EBuChAcUkspX5zhs3qEVPUNL9stbHepB/f54d9afd34eb6e84b5ee357b909ba1ebdc30d7fd080a0352689ecd9f734994cc.png)
 
 ![image](https://halflife.hackclub-assets.com/sessions/EBuChAcUkspX5zhs3qEVPUNL9stbHepB/125660cfbe798d2be41daa3482b0d9390dde94b717cf421cb5e2403d7b4cbdfe.png)
+
+Note: C14 should NOT be that tall... the actual part is pretty small. EasyEDA must have the wrong 3D model here!
