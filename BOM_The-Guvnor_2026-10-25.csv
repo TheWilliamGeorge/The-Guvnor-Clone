@@ -1,27 +1,25 @@
-﻿ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	Price
-1	PAD	"GND_OFF_BOARD,+9VIN,IN,OUT,SWITCH"	SPACER	5	1P Spacer	1P Spacer	Master	1P Spacer	
-2	10nF	"C1,C10"	CAP-TH_L12.0-W4.5-P10.00-D0.6	2	MPP103J2J10KN22692	KNSCHA(科尼盛)	LCSC	C2831910	0.042
-3	120pF	C2	CAP-TH_L5.0-W3.2-P5.08-D0.6	1	CD1H121JC9BECHE100	Dersonic(德尔创)	LCSC	C2761741	0.029
-4	100nF	"C3,C7"	CAP-TH_L7.2-W2.5-P5.00-D0.5	2	R82DC3100DQ50J	KEMET(基美)	LCSC	C600429	0.167
-5	68nF	"C4,C11"	CAP-TH_L12.0-W5.0-P10.00-D1.0	2	KP683J2J1007	KYET(科雅)	LCSC	C390079	0.05
-6	220pF	C5	CAP-TH_L9.0-W5.0-P5.00-D0.6	1	CC45SL3AD221JYVNA	TDK	LCSC	C5331066	0.05
-7	220nF	"C6,C8"	CAP-TH_L12.0-W6.5-P10.00-D1.0	2	MPP224J2J10NN22600	KNSCHA(科尼盛)	LCSC	C506861	0.046
-8	4.7nF	C9	CAP-TH_L12.5-W5.5-P10.00-D0.6	1	W312J472JK6L00A00C	WEIDY(纬迪)	LCSC	C21390185	0.043
-9	470pF	C12	CAP-TH_L7.5-W3.5-P7.50-D0.8-S3.0	1	DGCXY2075Y5P1E471K	DGCX(成希)	LCSC	C42381413	0.018
-10	47uF	C13	CAP-TH_BD6.3-P2.50-D0.5-FD_5	1	KS50V47M6X11	JIERR(捷而瑞)	LCSC	C54780427	0.043
-11	10uF	C14	CAP-TH_BD10.0-P5.00-D0.6-FD_8	1	ERF2W100M101600Y	TOPAZCON(黄宝石)	LCSC	C55265379	0.082
-12	1N4001_C2456	D1	DO-41_BD2.4-L4.7-P8.70-D0.9-RD	1	1N4001	MDD(辰达半导体)	LCSC	C2456	0.022
-13	L-513ID	"D2,D3,LED"	LED-TH_BD5.9-P2.54-FD-1	3	L-513ID	PARALIGHT(光鼎)	LCSC	C2895168	0.049
-14	4.7kΩ	LEDR	RES-TH_BD2.3-L3.7-P7.70-D0.4	1	CR1/8W-4K7±5%-ST26	VO(翔胜)	LCSC	C2897062	0.004
-15	1MΩ	"R1,RPD2"	RES-TH_BD2.4-L6.3-P10.30-D0.6	2	FMP100JR-52-1M	YAGEO(国巨)	LCSC	C1740216	0.039
-16	2.2kΩ	R2	RES-TH_BD2.4-L6.3-P10.30-D0.6	1	MFR50SFTE52-2K2	YAGEO(国巨)	LCSC	C173151	0.024
-17	10kΩ	R3	RES-TH_BD1.8-L3.2-P7.20-D0.4	1	RNMF14FTC10K0	SEI(Stackpole Electronics Inc.)	LCSC	C2441627	0.045
-18	680kΩ	R4	RES-TH_BD2.2-L6.5-P10.50-D0.6	1	MGR0W4F6803A40	UNI-ROYAL(厚声)	LCSC	C52763190	0.03
-19	1kΩ	R5	RES-TH_BD2.3-L3.7-P7.70-D0.9	1	CR1/8W-1K±5%-ST26	VO(翔胜)	LCSC	C2896954	0.003
-20	680Ω	"R7,R8"	RES-TH_BD2.3-L3.7-P7.70-D0.9	2	CR1/8W-680Ω±5%-ST26	VO(翔胜)	LCSC	C2897090	0.003
-21	100Ω	R9	RES-TH_BD2.3-L3.7-P7.70-D0.9	1	CR1/8W-100Ω±5%-ST52	VO(翔胜)	LCSC	C2896921	0.004
-22	22kΩ	R10	RES-TH_BD2.3-L3.7-P7.70-D0.9	1	CR1/8W-22K±5%-ST52	VO(翔胜)	LCSC	C2896978	0.004
-23	47kΩ	"R12,R13"	RES-TH_BD2.3-L3.7-P7.70-D0.9	2	CR1/8W-47K±5%-ST52	VO(翔胜)	LCSC	C2897058	0.004
-24	1.5kΩ	R6	RES-TH_BD2.7-L6.2-P10.20-D0.4	1	CR1/4W-1K5±5%-ST52	VO(翔胜)	LCSC	C2894662	0.004
-25	2.2MΩ	RPD	RES-TH_BD2.3-L6.5-P10.50-D0.5	1	RT 1/4W 2M2 J T/B	Tyohm(幸亚电阻)	LCSC	C5200510	0.081
-28	TL072CP	TL072CP	DIP-8_L9.6-W6.4-P2.54-LS7.6-BL-1	1	TL072CP	TI(德州仪器)	LCSC	C7236	0.478
+Item,Qty,Supplier,Cost/item,Total Cost,link
+100nF ±5% 63V Film Capacitor Metallized Polyester Through Hole P=5mm,1,LCSC,0.1668,0.1668,https://www.lcsc.com/product-detail/C600429.html
+"2.2kΩ 500mW Metal Film Resistor ±50ppm/℃ ±1% Through Hole,D2.4xL6.3mm Through Hole Resistors RoHS",20,LCSC,0.0242,0.484,https://www.lcsc.com/product-detail/C173151.html
+"120pF ±5% 50V Ceramic Capacitor NP0 Through Hole,P=5.08mm",20,LCSC,0.0273,0.546,https://www.lcsc.com/product-detail/C2761741.html
+68nF Film Capacitor ±5% 630V Through Hole P=10mm,10,LCSC,0.0502,0.502,https://www.lcsc.com/product-detail/C390079.html
+"10kΩ ±1% 250mW Through Hole,D1.8xL3.3mm Metal Film Resistor",10,LCSC,0.0447,0.447,https://www.lcsc.com/product-detail/C2441627.html
+"2 3mV 13V/us 70dB 65pA 1.4mA 3MHz PDIP-8 Instrumentation, Op Amps, Buffer Amps RoHS",1,LCSC,0.4783,0.4783,https://www.lcsc.com/product-detail/C7236.html
+"1MΩ 1W Metal Film Resistor ±5% Through Hole,D2.4xL6.3mm Through Hole Resistors RoHS",10,LCSC,0.0393,0.393,https://www.lcsc.com/product-detail/C1740216.html
+10nF Film Capacitor ±5% 630V Through Hole P=10mm,10,LCSC,0.037,0.37,https://www.lcsc.com/product-detail/C2831910.html
+"2.2MΩ 250mW High Voltage Glass Glaze Resistor ±200ppm/℃ ±5% Through Hole,D2.4xL6.4mm Through Hole Resistors RoHS",5,LCSC,0.0082,0.041,https://www.lcsc.com/product-detail/C5200510.html
+220pF ±5% 1kV Ceramic Capacitor Through Hole P=5mm,10,LCSC,0.0496,0.496,https://www.lcsc.com/product-detail/C5331066.html
+"680kΩ 250mW 1.6kV Glass Glaze Resistor ±200ppm/℃ ±1% Through Hole,D2.2xL6.5mm Through Hole Resistors ",10,LCSC,0.0299,0.299,https://www.lcsc.com/product-detail/C52763190.html
+220nF Film Capacitor ±5% 630V Through Hole P=10mm,10,LCSC,0.0407,0.407,https://www.lcsc.com/product-detail/C506861.html
+"1kΩ 125mW 200V Carbon Film Resistor ±350ppm/℃ ±5% Through Hole,D2.3xL3.7mm Through Hole Resistors ",100,LCSC,0.0034,0.34,https://www.lcsc.com/product-detail/C2896954.html
+"Red LED Indication - Discrete 1.9V Through Hole,D=5mm",10,LCSC,0.0492,0.492,https://www.lcsc.com/product-detail/C2895168.html
+"4.7kΩ 125mW 200V Carbon Film Resistor ±350ppm/℃ ±5% Through Hole,D2.3xL3.7mm Through Hole Resistors ",100,LCSC,0.0036,0.36,https://www.lcsc.com/product-detail/C2897062.html
+Diode 50V 1A Through Hole DO-41,20,LCSC,0.0213,0.426,https://www.lcsc.com/product-detail/C2456.html
+"±20% 50V 47uF 350mΩ@100kHz Through Hole,D6.3xL11mm Aluminum Electrolytic Capacitors RoHS",10,LCSC,0.0413,0.413,https://www.lcsc.com/product-detail/C54780427.html
+"25V ±20% 10uF Through Hole,D4xL5mm Aluminum Electrolytic Capacitors RoHS",50,LCSC,0.0052,0.26,https://www.lcsc.com/product-detail/C55265401.html
+4.7nF Film Capacitor ±5% 630V Through Hole P=10mm,10,LCSC,0.0433,0.433,https://www.lcsc.com/product-detail/C21390185.html
+"1.5kΩ 250mW 250V Carbon Film Resistor ±350ppm/℃ ±5% Through Hole,D2.7xL6.2mm Through Hole Resistors ",100,LCSC,0.0041,0.41,https://www.lcsc.com/product-detail/C2894662.html
+"680Ω 125mW 200V Carbon Film Resistor ±350ppm/℃ ±5% Through Hole,D2.3xL3.7mm Through Hole Resistors ",100,LCSC,0.003,0.3,https://www.lcsc.com/product-detail/C2897090.html
+"100Ω 125mW 200V Carbon Film Resistor ±350ppm/℃ ±5% Through Hole,D2.3xL3.7mm Through Hole Resistors ",100,LCSC,0.0035,0.35,https://www.lcsc.com/product-detail/C2896921.html
+"22kΩ 125mW 200V Carbon Film Resistor ±350ppm/℃ ±5% Through Hole,D2.3xL3.7mm Through Hole Resistors ",100,LCSC,0.0036,0.36,https://www.lcsc.com/product-detail/C2896978.html
+"470pF ±10% 1500V Safety Capacitor Through Hole,P=7.5mm",20,LCSC,0.0175,0.35,https://www.lcsc.com/product-detail/C42381413.html
