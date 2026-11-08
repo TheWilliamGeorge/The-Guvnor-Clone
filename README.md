@@ -6,6 +6,7 @@
 - Gerber: [Gerber File](PCB-Files/Gerber_The-Guvnor_PCB_The-Guvnor_2026-10-25.zip)
 - Schematic: [schdoc](Schematic-Files/Sheet_1_2026-10-25.schdoc)
 
+*ONCE I'VE BUILT IT, AN IMAGE WILL GO HERE*
 
 ## What is this? 
 The Marshall Guv'nor is a legendary guitar distortion pedal. It was designed to emulate the classic sound of their famous amps like the JCM800, used by countless legendary rock artists. Following a schematic design from AionFX, I have created my own PCB for this pedal, sourcing all the components and routing the board by hand. Traditionally a metal enclosure of a pre-set size would be used, but I have allowed for a bigger board to simplify soldering and component choice (and to cut costs) and will 3D print an enclosure at a later date. This enclosure will be lined with copper tape to ground the pedal and reduce interference (a Faraday cage).
